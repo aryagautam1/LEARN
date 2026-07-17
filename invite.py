@@ -1,0 +1,7 @@
+print(" =======================")
+print("| Welcome to the party! |")
+print("|   [TIME: 8:00 PM]     |")
+print("|  [DATE: 2024-07-17]   |")
+print("|  [VENUE: MY  HOUSE]   |")
+print("|     [HOST: ARYA]      |")
+print(" =======================")
