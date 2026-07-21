@@ -1,0 +1,11 @@
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+print("sum:", number1 + number2)
+print("difference:", number1 - number2)
+print("product:", number1 * number2)
+print("divison:", number1 / number2)
+print("modulus:" , number1 % number2)
+print("exponent:", number1 ** number2)
+
+print("first number is big?", number1 > number2)
+print("is the number even?", number1%number2==0)
